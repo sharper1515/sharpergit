@@ -8,6 +8,7 @@ public class HelloWorld {
 	}
 	public HelloWorld() {
 		x =1;
+		System.out.println(x);
 	}
 
 }
